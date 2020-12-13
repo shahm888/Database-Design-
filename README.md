@@ -1,5 +1,5 @@
 # Ride-sharing-company--Uber
-![image](https://user-images.githubusercontent.com/46588361/102005750-4f865580-3cd0-11eb-9fcb-f4789e013fa7.png)
+![image](https://user-images.githubusercontent.com/46588361/102005938-ab9da980-3cd1-11eb-9692-feb7ba9c1ed3.png)
 ![image](https://user-images.githubusercontent.com/46588361/102005783-8bb9b600-3cd0-11eb-9782-bf3882e75156.png)
 ![image](https://user-images.githubusercontent.com/46588361/102005795-9b38ff00-3cd0-11eb-8485-362055a7c6c0.png)
 ![image](https://user-images.githubusercontent.com/46588361/102005801-a855ee00-3cd0-11eb-9174-25659dca0643.png)
