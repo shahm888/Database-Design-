@@ -1,4 +1,5 @@
 # Ride-sharing-company--Uber
+Designed & Implemented reliable and efficient Relational Database(in SQL) for Ride Sharing company (like Uber) with EER-Diagram, Use-case Diagram to represent all the entities, their relations and use-case scenarios.
 ![image](https://user-images.githubusercontent.com/46588361/102005938-ab9da980-3cd1-11eb-9692-feb7ba9c1ed3.png)
 ![image](https://user-images.githubusercontent.com/46588361/102005783-8bb9b600-3cd0-11eb-9782-bf3882e75156.png)
 ![image](https://user-images.githubusercontent.com/46588361/102005795-9b38ff00-3cd0-11eb-8485-362055a7c6c0.png)
